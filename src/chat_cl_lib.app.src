@@ -1,0 +1,15 @@
+{application, 'chat_cl_lib',
+ [{description, "chat client library"},
+  {vsn, "0.1.1"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, [chat_client]},
+
+  {contributors, []},
+  {licenses, []},
+  {links, []}
+ ]}.
