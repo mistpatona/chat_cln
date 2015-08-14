@@ -1,6 +1,6 @@
-{application, 'chat_cl_lib',
+{application, 'chat_cln',
  [{description, "chat client library"},
-  {vsn, "0.1.1"},
+  {vsn, "0.1.3"},
   {registered, []},
   {applications,
    [kernel,

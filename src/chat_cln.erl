@@ -1,4 +1,4 @@
--module('chat_cl_lib').
+-module('chat_cln').
 
 %% API exports
 -export([]).
